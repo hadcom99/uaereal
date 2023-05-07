@@ -7,7 +7,7 @@ import { FiKey } from 'react-icons/fi';
 
 const Navbar = () => (
   <Flex p='2' borderBottom='1px' borderColor='gray.100'>
-    <Box fontSize='3xl' color='blue.400' fontWeight='bold'>
+    <Box fontSize='3x2'>
       <Link href='/' paddingLeft='2'><img src='./assets/logo.svg' alt= 'Hubforward' className='w-28 object-contain' /></Link>
       
     </Box>
